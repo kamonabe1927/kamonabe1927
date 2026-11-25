@@ -41,7 +41,7 @@ These days that job is handled by scheduled AI agents reporting to Slack.
 #### ✍️ Writing
 
 - note: [かもなべ](https://note.com/kamonabe1927) — a series on spec-driven development where AI runs itself (Japanese)
-- X: [@kamonabeDev](https://x.com/kamonabeDev)
+- X: [@kamonabeDev](https://x.com/kamonabe1927Dev)
 
 #### 🍵 Motto
 
